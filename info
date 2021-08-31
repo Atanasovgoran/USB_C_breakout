@@ -1,0 +1,350 @@
+{
+  "uuid": "76a33778b72238a99413d0d9b8984e85",
+  "path": "Offline/USBßC",
+  "name": "USBßC",
+  "content": "",
+  "created_at": "2021-03-15 00:55:48",
+  "updated_at": "2021-05-27 01:28:51",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "64ddcdb6f131aa1d813e5c3a61ece534",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f60e63885070467ea98d5814b27ad9d1": 1,
+        "2ef1589831554e2fb804ded3c515351c": 5,
+        "78e357f9805541bbbcfe9e1c0009b258": 1,
+        "dfe7f71bc75545f59e0284e0758eb972": 1,
+        "b94b0a06d3b13c6f76c5d35e255542ff": 1,
+        "90dd351b26a048e39f5e079ddcb3186a": 1,
+        "5c1c88ac2fd94d3ea5e16526b36c98f1": 1,
+        "3946572c89f049a0b8bc57de3a57954d": 1,
+        "1e855676545d43a9957932d5a02d368e": 1,
+        "651435c3a41bddef42344e2bd5c58085": 5,
+        "0ecbe8a89bcf4cda9ef70ad4fe807fcc": 1,
+        "803b125d898547e6b8fc2221bb907d06": 1,
+        "873a3b5aed0e4bbf9fd2bea5b1b3ee34": 2,
+        "a2841729ff194f9fb87e2953c8fa8969": 1,
+        "56bef5677e3d4d73a9e05c79dfbbb7c9": 1,
+        "ba793133c560453e83d6d749db6d8b4e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DSHP03TS-S",
+          1,
+          "SW-SMD_DSHP03TS-S",
+          "C319051",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319051",
+            "BOM_Manufacturer": "XKB Enterprise",
+            "BOM_Manufacturer Part": "DSHP03TS-S",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6a8081289930408ab8e9783cee161d4e",
+            "uuid": "0ecbe8a89bcf4cda9ef70ad4fe807fcc"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "RES-ARRAY-SMD_8P-L3.2-W1.6-P0.80-BL",
+          "C149862",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C149862",
+            "BOM_Manufacturer": "Ever Ohms Tech",
+            "BOM_Manufacturer Part": "CRA034RF100KP05",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b1eac60ef41e400f8f9870928c5aec5a",
+            "uuid": "1e855676545d43a9957932d5a02d368e"
+          }
+        ],
+        [
+          "JST-XH-02",
+          5,
+          "JST-XH-02-ROUND_PAD",
+          "TEMP,FAN1,FAN2,X-MIN,HOT",
+          {
+            "BOM_Manufacturer Part": "JST-XH-02",
+            "puuid": "67af9677e22e407a82e4539a7070812f",
+            "uuid": "2ef1589831554e2fb804ded3c515351c"
+          }
+        ],
+        [
+          "100",
+          1,
+          "RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL",
+          "C308566",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C308566",
+            "BOM_Manufacturer": "ROHM Semicon",
+            "BOM_Manufacturer Part": "MNR14E0APF1000",
+            "puuid": "109e5b24485d430f95eaa4f2fe2ab4f9",
+            "uuid": "5c1c88ac2fd94d3ea5e16526b36c98f1"
+          }
+        ],
+        [
+          "Short Pad triple",
+          1,
+          "SHORT PADS TRIPLE",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "777dc6f4b7144c3cbdfc02da66a288d9",
+            "uuid": "56bef5677e3d4d73a9e05c79dfbbb7c9"
+          }
+        ],
+        [
+          "WSD4066DN",
+          1,
+          "DFN-8_L3.2-W3.2-P0.65-LS3.4-BL-EP",
+          "FMOS",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C377861",
+            "BOM_Manufacturer": "Winsok Semicon",
+            "BOM_Manufacturer Part": "WSD4066DN",
+            "puuid": "bba05e5ad2604912b92b0fdd8a65732b",
+            "uuid": "78e357f9805541bbbcfe9e1c0009b258"
+          }
+        ],
+        [
+          "USB-256-BRYH130",
+          1,
+          "USB-A-TH_USB-256-BRYH137",
+          "USB",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C720539",
+            "BOM_Manufacturer": "XUNPU",
+            "BOM_Manufacturer Part": "USB-256-BRYH130",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ae425ecc6f1a44c482002cf61f3d6e37",
+            "uuid": "90dd351b26a048e39f5e079ddcb3186a"
+          }
+        ],
+        [
+          "K3-1204D",
+          1,
+          "SW-TH_K3-1204D",
+          "C145861",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C145861",
+            "BOM_Manufacturer": "Rectangular Connectors - Contacts",
+            "BOM_Manufacturer Part": "K3-1204D",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ca99fe10254a47a7b4dd641b802c2c74",
+            "uuid": "803b125d898547e6b8fc2221bb907d06"
+          }
+        ],
+        [
+          "BUCK_MINI 360 COPY COPY",
+          2,
+          "MINI 360",
+          "5V,FAN",
+          {
+            "BOM_Manufacturer Part": "buck mini 360",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "90345ff9eb7a42a2be782c803286259a",
+            "uuid": "873a3b5aed0e4bbf9fd2bea5b1b3ee34"
+          }
+        ],
+        [
+          "C84263",
+          5,
+          "LED0603-FD",
+          "PL,5VL,F2L,F1L,HL",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "NATIONSTAR",
+            "BOM_Manufacturer Part": "FC-DA1608HRK-620D",
+            "BOM_Supplier Part": "C84263",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b2142ad37752444c81455a204d85065a",
+            "uuid": "651435c3a41bddef42344e2bd5c58085"
+          }
+        ],
+        [
+          "2.2K",
+          1,
+          "RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL",
+          "C168190",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "WTC",
+            "BOM_Manufacturer Part": "WA06X222JTL",
+            "BOM_Supplier Part": "C168190",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "109e5b24485d430f95eaa4f2fe2ab4f9",
+            "uuid": "3946572c89f049a0b8bc57de3a57954d"
+          }
+        ],
+        [
+          "JST-XH03",
+          1,
+          "JST-XH03",
+          "SENSE",
+          {
+            "BOM_Manufacturer Part": "JST-XH03",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "8f85911cc7dc4ee2ad6cb3903050c4ea",
+            "uuid": "a2841729ff194f9fb87e2953c8fa8969"
+          }
+        ],
+        [
+          "C86613",
+          1,
+          "SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL",
+          "74HC04",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FM",
+            "BOM_Manufacturer Part": "74HC04",
+            "BOM_Supplier Part": "C86613",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0f2364c02f094100b1b3205c9d829099",
+            "uuid": "b94b0a06d3b13c6f76c5d35e255542ff"
+          }
+        ],
+        [
+          "Short Pad single",
+          1,
+          "SHORT PADS",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ee9dfed1f8614c5d83f5edc3d2ea6a04",
+            "uuid": "ba793133c560453e83d6d749db6d8b4e"
+          }
+        ],
+        [
+          "WSD3050DN",
+          1,
+          "DFN-8_L3.3-W3.3-P0.65-BL_WSD3050DN",
+          "HMOS",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C148385",
+            "BOM_Manufacturer": "WINSOK微硕",
+            "BOM_Manufacturer Part": "WSD3050DN",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9b8fdc45f7364d8cac2444446a99f469",
+            "uuid": "dfe7f71bc75545f59e0284e0758eb972"
+          }
+        ],
+        [
+          "C168696",
+          1,
+          "USB-TYPE-C-TH_USB-306C",
+          "NOT-USB-C",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C309340",
+            "BOM_Manufacturer": "HOOYA",
+            "BOM_Manufacturer Part": "USB-306C",
+            "puuid": "0a6192e2405b4dca8dcff4eb8a60cf97",
+            "uuid": "f60e63885070467ea98d5814b27ad9d1"
+          }
+        ]
+      ],
+      "updateTime": 1622071232,
+      "createTime": 1615766148,
+      "histories": [],
+      "created_at": "2021-03-15 00:55:48",
+      "updated_at": "2021-05-27 01:20:32"
+    },
+    {
+      "uuid": "c54730609f3fe3dfabc3e064f7e83aed",
+      "puuid": "76a33778b72238a99413d0d9b8984e85",
+      "title": "PCB_2021-05-24_14-17-50",
+      "filename": "PCB_2021-05-24_14-17-50.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0f2364c02f094100b1b3205c9d829099": 1,
+        "b1eac60ef41e400f8f9870928c5aec5a": 1,
+        "109e5b24485d430f95eaa4f2fe2ab4f9": 2,
+        "67af9677e22e407a82e4539a7070812f": 5,
+        "8f85911cc7dc4ee2ad6cb3903050c4ea": 1,
+        "ae425ecc6f1a44c482002cf61f3d6e37": 1,
+        "2dd14861b06443a0b0b6cc3a7e9fa2d8": 2,
+        "bba05e5ad2604912b92b0fdd8a65732b": 1,
+        "9b8fdc45f7364d8cac2444446a99f469": 1,
+        "b2142ad37752444c81455a204d85065a": 5,
+        "ee9dfed1f8614c5d83f5edc3d2ea6a04": 1,
+        "777dc6f4b7144c3cbdfc02da66a288d9": 1,
+        "0a6192e2405b4dca8dcff4eb8a60cf97": 1
+      },
+      "BOM": [],
+      "updateTime": 1621878431,
+      "createTime": 1621858670,
+      "histories": [],
+      "created_at": "2021-05-24 14:17:50",
+      "updated_at": "2021-05-24 19:47:11"
+    },
+    {
+      "uuid": "0494aa80f2b7fce8fa2d556ac79c7874",
+      "puuid": "76a33778b72238a99413d0d9b8984e85",
+      "title": "PCB_2021-05-24_14-17-51",
+      "filename": "PCB_2021-05-24_14-17-51.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "777dc6f4b7144c3cbdfc02da66a288d9": 1,
+        "ee9dfed1f8614c5d83f5edc3d2ea6a04": 1,
+        "90345ff9eb7a42a2be782c803286259a": 2,
+        "b1eac60ef41e400f8f9870928c5aec5a": 1,
+        "109e5b24485d430f95eaa4f2fe2ab4f9": 2,
+        "67af9677e22e407a82e4539a7070812f": 5,
+        "8f85911cc7dc4ee2ad6cb3903050c4ea": 1,
+        "ae425ecc6f1a44c482002cf61f3d6e37": 1,
+        "bba05e5ad2604912b92b0fdd8a65732b": 1,
+        "9b8fdc45f7364d8cac2444446a99f469": 1,
+        "b2142ad37752444c81455a204d85065a": 5,
+        "0a6192e2405b4dca8dcff4eb8a60cf97": 1,
+        "0f2364c02f094100b1b3205c9d829099": 1,
+        "6a8081289930408ab8e9783cee161d4e": 1,
+        "ca99fe10254a47a7b4dd641b802c2c74": 1
+      },
+      "BOM": [],
+      "updateTime": 1622071731,
+      "createTime": 1621878189,
+      "histories": [],
+      "created_at": "2021-05-24 19:43:09",
+      "updated_at": "2021-05-27 01:28:51"
+    }
+  ],
+  "sort": [
+    "64ddcdb6f131aa1d813e5c3a61ece534",
+    "b57cc7a99e995be157afc172e4aecc9a"
+  ],
+  "title": "USBßC",
+  "foldername": "USBßC",
+  "schfilename": "USBßC.json",
+  "schfilemtime": 1622071232243
+}
